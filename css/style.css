@@ -1,3 +1,7 @@
 body{
     background-color: wheat;
 }
+.wrapper{
+    width: 100%;
+    max-width: 1400px;
+}
